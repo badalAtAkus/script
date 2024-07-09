@@ -86,7 +86,7 @@ GUAC_VERSION="1.5.5"
 
 # MySQL Connector/J version to install
 MYSQLJCON="8.3.0"
-MYSQLJCON_LINK="https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-j-${MYSQLJCON}.tar.gz"
+MYSQLJCON_LINK="https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-j-9.0.0.tar.gz"
 
 # Set preferred Apache CDN download link
 GUAC_SOURCE_LINK="http://apache.org/dyn/closer.cgi?action=download&filename=guacamole/${GUAC_VERSION}"
